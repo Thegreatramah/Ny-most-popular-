@@ -10,7 +10,14 @@ There are two Gradle tasks for testing the project:
 
 There are two Gradle tasks for testing the project:
 * `connectedAndroidTest` - for running Espresso on a connected device or android emulator
-* `test` - for running unit tests on syste
+* `test` - for running unit tests on system
+
+App Screenshots
+-----------
+![List of articles](screenshots/nytimes_start_list.png "A list of articles")
+![end of articles](screenshots/nytimes_end_list.png "end list of articles")
+![details of articles](screenshots/nytimes_article_detail.png "article details")
+
 
 Libraries Used
 --------------
